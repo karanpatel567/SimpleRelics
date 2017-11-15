@@ -7,12 +7,14 @@ A simple relic plugin for the public. You get relics while mining which will con
 
 You get relics by mining. When you receive a relic, you can open it by tapping anywhere with the relic in your hand.
 
+
 # Config
 
 ```
 ---
 # Rewards for relics
 # Use item IDs
+
 
 relic-loot:
 - "1"
@@ -21,13 +23,16 @@ relic-loot:
 
 # Max amount of items you can get
 
+
 relic-max: 64
 ...
 ```
 
+
 # Latest PHAR
 
 You can get the latest phar ![here.](https://github.com/diamondgamermcpe/SimpleRelics)
+
 
 # Support the developer
 
