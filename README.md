@@ -31,11 +31,13 @@ relic-max: 64
 
 # Latest PHAR
 
-You can get the latest phar ![here.](https://github.com/diamondgamermcpe/SimpleRelics)
+You can get the latest phar ![here.](https://github.com/diamondgamermcpe/SimpleRelics/releases)
 
 
 # Support the developer
 
 ![GitHub](https://github.com/diamondgamermcpe)
+
 ![Twitter](https://twitter.com/DavidGamingzz)
+
 ![PayPal](https://www.paypal.me/PrimalPE/1)
