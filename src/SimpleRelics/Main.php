@@ -68,7 +68,7 @@ class Main extends PluginBase implements Listener{
 					TF::GRAY . " * " . TF::GREEN . "A treasure found by mining stone" . PHP_EOL .
 					TF::GRAY . " * " . TF::GREEN . "Tap anywhere to see what it holds");
 		
-					$player->getInventory()->addItem($tier1);
+					$player->getInventory()->setItemInHand($tier1,1);
 					$player->addtitle(TF::GRAY . "You have found a", TF::GOLD . TF::BOLD . "Relic" . TF::RESET);
 					$this->getServer()->broadcastMessage(TF::RED . TF::BOLD . "(!) " . TF::RESET . TF::GREEN . $name . TF::GRAY . " has found a " . TF::GOLD . TF::BOLD . "Relic");
 					
